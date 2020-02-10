@@ -1,0 +1,10 @@
+.footer-inner {
+    display: flex;
+  
+    height: 20px;
+    width: 3000px;
+    color: white;
+    background-color:rgba(0, 0, 0, 0.603);
+    margin-bottom: 10px;
+  
+}

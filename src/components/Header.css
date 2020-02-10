@@ -1,0 +1,25 @@
+
+
+
+.header-inner {
+    display: flex;
+  
+    height: 80px;
+    width: 3000px;
+    color: rgb(240, 239, 243);
+    background-color:rgba(0, 0, 0, 0.603);
+    margin-bottom: 10px;
+  
+}
+header li {
+    margin-left: 50px;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    padding-left: 10px;
+    
+}
+header ul {
+    display: flex;
+   margin-left: 1800px;
+}
