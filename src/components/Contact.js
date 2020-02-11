@@ -11,6 +11,9 @@ class Contact extends Component{
                     <li>Twitter</li>
                     <li>Instagram</li>
                     <li>LinkedIn</li>
+                    <li>LinkedIn</li>
+                    <li>LinkedIn</li>
+                    <li>LinkedIn</li>
                 </ul>
             </div>
         )
