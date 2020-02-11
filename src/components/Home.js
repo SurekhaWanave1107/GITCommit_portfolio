@@ -15,6 +15,9 @@ class Home extends Component{
                                             <h1>Hi!</h1>
                                             <h1>I am Jackson!</h1>
                                             <p>100% reactjs template made by me</p>
+                                            <p>100% reactjs template made by me</p>
+                                            <p>100% reactjs template made by me</p>
+                                            <p>100% reactjs template made by me</p>
                                             
                                         </div>
                                 </li>
