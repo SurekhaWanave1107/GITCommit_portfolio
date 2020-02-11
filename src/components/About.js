@@ -11,6 +11,9 @@ class About extends Component{
                     <li>I am very active girl</li>
                     <li>I want to be a developer</li>
                     <li>I love ReactJs</li>
+                    <li>I love ReactJs</li>
+                    <li>I love ReactJs</li>
+                    <li>I love ReactJs</li>
                 </ul>
             </div>
         )
