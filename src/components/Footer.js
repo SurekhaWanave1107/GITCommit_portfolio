@@ -7,7 +7,9 @@ class Footer extends Component{
         return(          
 <footer className="footer-inner">
 @Copyright 
-
+@Copyright 
+@Copyright 
+@Copyright 
 </footer>
         )
     }
